@@ -1,5 +1,9 @@
 # Nano Banana Pro 全网最全提示词整理
 
+## 开源协议
+
+本项目采用 [MIT License](LICENSE) 开源协议。
+
 ---
 
 ### **前言：Google发布Nano Banana Pro，AI图像生成迎来新纪元**
