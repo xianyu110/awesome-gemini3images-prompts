@@ -451,5 +451,306 @@ Google 的 AI 攻势没有半点减弱的迹象。如果说前几天 Gemini 3 Pr
 > **古诗配图:** 请为“采菊东篱下，悠然见南山。”这首诗配图。
 > ![图片](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211749972.png)
 
+
+
+
 ---
 
+把文章转成风格化的信息图
+
+由于长文本渲染的能力增强，目前网上热门的测试，都是生成各种各样的信息图，有密密麻麻的知识解说类，还有写满一黑板、一墙壁的经典古诗词，或者数学题解答等等。
+
+例如下面这个把我们输入的文字，原封不动的转成一本杂志的内容。
+
+![图片](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211815293.jpeg)
+
+图片来源：X@fofrAI｜提示词：Put this whole text, verbatim, into a photo of a glossy magazine article on a desk, with photos, beautiful typography design, pull quotes and brave formatting. The text: [...the unformatted article]
+
+还有网友直接丢给他一个 Markdown 文档或者 PDF，然后跟 Nano Banana Pro 说，将这个文档转成信息图，就得到了一个设计友好、信息准确的图片。
+
+评论区都在说，插画师的时代，是不是也要结束了。
+
+![图片](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211815051.jpeg)
+
+图片来源：X@tobi｜提示词：Make this markdown transcript into a infographic
+
+因为 Nano Banana Pro 现在能使用谷歌搜索，并且推理和理解能力都有了大的提升，所以在生成信息图上，如果没有太严格的要求，直接告诉它要做一个什么主体的信息图就能实现，不需要纠结太多提示词的结构。
+
+![图片](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211815782.jpeg)
+
+提示词：生成一张 2026 年中国放假安排的信息图，全部使用中文，4K画质，16:9
+
+例如，当我们要他生成明年的节假日信息时，我看到 Gemini 里面给我的回复，有明确的使用 Google 搜索获取的信息结果，即多个官方的公告网页链接。
+
+还有很多好看的信息图测试，网友们的提示词也比较简单，基本上都是「帮我生成一个xx的信息图」。
+
+一张有趣的繁忙城镇信息图，展示动物们在繁忙城镇中上班的情景，并介绍它们从事的不同工作。
+
+![图片](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211815171.jpeg)
+
+图片来源：X@unsoldwill｜提示词：Make a fun busy town infographic of animals going to work in a busy town showcasing different jobs.
+
+一张 Stephen Biesty 风格的双层神经网络图。
+
+![图片](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211815485.jpeg)
+
+图片来源：X@jon_barron｜提示词：Generate a diagram of a two-layer neural network in the style of Stephen Biesty
+
+这位网友还把这张图片丢给 Google 的 Veo 3.1，让它动了起来。
+
+![图片](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211818883.gif)
+
+将内容繁杂的文档，转换成清晰、可扫描的白板式信息图。
+
+![图片](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211815564.jpeg)
+
+图片来源：X@denilgabani｜Convert the attached research paper into a single whiteboard-style image. Break down all key concepts, diagrams, insights, and relationships in a way that is easy to understand at a glance. Add clear visual notes, arrows, highlights, summaries, and clever student-style annotations so I can quickly grasp the full paper and take notes from it.
+
+生成精彩的连环画
+
+结合长文本渲染和强大的一致性保持，除了渲染文本较多的信息图，Nano Banana Pro 用来制作连环画是再合适不过，并且，它现在支持在一次请求中，生成多张照片。
+
+有网友只是上传了一张图片，然后输入「根据这张图片创作并绘制一个多格漫画」的提示词，就得到了多张自己写好剧情的漫画，并且他还在继续更新后续的情节。
+
+![图片](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211815001.jpeg)
+
+![图片](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211815802.jpeg)
+
+![图片](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211815571.jpeg)
+
+![图片](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211815078.jpeg)
+
+向左滑动查看更多内容，图片来源：X@DeryaTR_｜提示词：Create and draw a multi-panel comic based on this image.
+
+![图片](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211815944.gif)
+
+还有只是提示说，生成几页以某个人的生活为主角的漫画。Nano Banana Pro 就能启用网络搜索，检索这个人的信息，还找到了他的 X 账号，根据他的 X 账号发布的内容信息来生成漫画。
+
+![图片](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211815799.jpeg)
+
+![图片](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211815787.jpeg)
+
+![图片](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211815170.jpeg)
+
+向左滑动查看更多内容，图片来源：X@skirano（Pietro Schirano）｜提示词：Generate a few pages of comic starring the life of Pietro Schirano
+
+![图片](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211815556.gif)
+
+如果你也有公开的社交媒体平台，不妨试试让 nano banana 也生成过去一周你的生活漫画。
+
+我们试了试让 Nano Banana Pro 生成马斯克和奥特曼的生活漫画，在 Gemini 网页版里，它一次性给了我们三张图片，漫画的内容可以看出，它确实是有世界知识在的。
+
+![图片](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211815192.jpeg)
+
+![图片](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211815219.jpeg)
+
+![图片](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211815400.jpeg)
+
+向左滑动查看更多内容，提示词：生成几张以 Elon Musk 和 Sam Altman 的生活为主角的真人漫画图片，全部用中文
+
+![图片](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211815730.gif)
+
+至于之前一代的 Nano Banana 玩的那些一致性，现在的 Pro 版本一样表现出色。像是给一个模特穿上不同的衣服，保持模特和衣服不变；还有像是把一些 Logo 放到不同的周边上，或者对现有的产品图，进行一些小元素的替换，Nano Banana Pro 的表现都很好。
+
+在 Google AI Studio 的官方案例中，也给出了多个信息图生成、和漫画制作的实例，它们搭建了多个利用 Nano Banana Pro 模型的项目。
+
+![图片](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211815607.png)
+
+体验地址：https://aistudio.google.com/apps?source=showcase&showcaseTag=nano-banana
+
+其中一个是我们只需要上传一个文章链接，他就能生成四种不同风格的信息图，包括趣味型、简洁型、暗黑科技风和现代编辑部风。还有只是丢给它一个模糊的概念，或者一个主题，就能为我们生成一张风格迥异的信息图。
+
+![图片](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211819956.gif)
+
+![图片](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211819250.gif)
+
+![图片](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211815521.gif)
+
+![图片](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211819338.gif)
+
+![图片](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211815781.gif)
+
+![图片](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211818587.gif)
+
+向左滑动查看更多内容，项目介绍 Demo
+
+![图片](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211815977.gif)
+
+4K 壁纸的生成，街机游戏的真人体验，以及更符合品牌使用的各种 Logo 贴图小工具等，在 Google AI Studio 上都有提供现成的项目。
+
+![图片](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211815280.jpeg)
+
+下着雪的金门大桥 4K 壁纸
+
+我们用「无限英雄」这个小项目生成一段马斯克和奥特曼的连环画，在预览连环画的过程中，我们还能选择剧情的走向，来决定接下来的漫画内容。
+
+![图片](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211815645.jpeg)
+
+![图片](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211815910.jpeg)
+
+![图片](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211815612.jpeg)
+
+![图片](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211815160.jpeg)
+
+![图片](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211815184.jpeg)
+
+![图片](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211815396.jpeg)
+
+![图片](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211815712.jpeg)
+
+向左滑动查看更多内容，生成的漫画下载后是 PDF 文件
+
+![图片](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211815070.gif)
+
+不过目前 Nano Banana Pro 模型 API 并不是免费调用，所以 AI Studio 的这六个项目，都需要绑定支付方式才能使用。
+
+但是，这些项目都提供了源代码，我们可以在他们的基础上进行修改。通过查看背后的代码，也能看到背后的提示词。
+
+![图片](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211815915.png)
+
+我们提取了其中一个项目的提示词，即输入链接生成四种风格的信息图。
+
+首先我们可以使用下面的提示词，来对网页链接的内容进行总结，将其中的 **${url}** 替换为实际的，需要分析的文章链接。**${language}** 则可以直接替换为 Chinese，以中文呈现。
+
+You are an expert Information Designer. Your goal is to extract the essential structure from a web page to create a clear, educational infographic.
+
+Analyze the content at this URL: **${url}**
+
+TARGET LANGUAGE: **${language}**.
+
+Provide a structured breakdown specifically designed for visual representation in **${language}**:
+
+1. INFOGRAPHIC HEADLINE: The core topic in 5 words or less (in **${language}**).
+2. KEY TAKEAWAYS: The 3 to 5 most important distinct points, steps, or facts (in **${language}**). THESE WILL BE THE MAIN SECTIONS OF THE IMAGE.
+3. SUPPORTING DATA: Any specific numbers, percentages, or very short quotes that add credibility.
+4. VISUAL METAPHOR IDEA: Suggest ONE simple visual concept that best fits this content (e.g., "a roadmap with milestones", "a funnel", "three contrasting pillars", "a circular flowchart").
+
+Keep the output concise and focused purely on what should be ON the infographic. Ensure all content is in **${language}.**
+
+得到这一部分的文章总结后，我们就可以开始图像生成。
+
+Create a professional, high-quality educational infographic based strictly on this structured content plan:
+
+**${structuralSummary}**
+
+VISUAL DESIGN RULES:
+
+\- **${styleGuidelines}**
+
+\- LANGUAGE: The text within the infographic MUST be written in **${language}**.
+
+\- LAYOUT: MUST follow the "VISUAL METAPHOR IDEA" from the plan above if one was provided.
+
+\- TYPOGRAPHY: Clean, highly readable sans-serif fonts. The "INFOGRAPHIC HEADLINE" must be prominent at the top.
+
+\- CONTENT: Use the actual text from "KEY TAKEAWAYS" in the image. Do not use placeholder text like Lorem Ipsum.
+
+\- GOAL: The image must be informative and readable as a standalone graphic.
+
+图像生成的提示词比较简单，我们把之前文章链接分析的结果，替换掉其中的 **${structuralSummary}** 部分；然后 **${styleGuidelines}** 的选择，可以从官方项目中，提到的四种风格里面任选一个。
+
+有趣且充满玩乐的风格 Fun & Playful：styleGuidelines = STYLE: Fun, playful, vibrant 2D vector illustrations. Use bright colors, rounded shapes, and a friendly tone.
+
+简约极简风格 Clean Minimalist：styleGuidelines = STYLE: Ultra-minimalist. Lots of whitespace, thin lines, limited color palette (1-2 accent colors max). Very sophisticated and airy.
+
+深色模式科技风Dark Mode Tech：styleGuidelines = STYLE: Dark mode technical aesthetic. Dark slate/black background with bright, glowing accent colors (cyan, lime green) for data points.
+
+现代编辑风 Modern Editorial：styleGuidelines = STYLE: Modern, flat vector illustration style. Clean, professional, and editorial (like a high-end tech magazine). Cohesive, mature color palette.
+
+照着这种方法，我们把 Nano Banana Pro 发布的那篇文章丢给 Gemini，得到了下面这几张信息图。
+
+![图片](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211815959.jpeg)
+
+![图片](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211815246.jpeg)
+
+![图片](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211815648.jpeg)
+
+向左滑动查看更多内容
+
+![图片](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211815822.gif)
+
+官方下场，7 个生图技巧
+
+除了用这种已经写好的提示词，Google 也是煞费苦心给了一份详细的 Nano Banana Pro 使用技巧，一方面是生怕我们不会操作，导致对模型的误会。另一方面，其实 Google 是希望 Nano Banana Pro 不单只是一个用来玩玩的生图模型，他们真的期待能提升我们的生产力。
+
+提示词的重要性，对于要获取精准控制的内容来说，除了模型自身的能力，剩下的决定因素就是它了。Google 再一次提到，**一个好的提示词，要明确的包括主题、构图、动作、地点、风格、和编辑说明。**
+
+用简短的语言描述画面的主体，例如，具体说明图片中的人或物是什么？在构图上，告诉模型，照片是如何取景的？是特写、广角镜头、低角度镜头、还是人像镜头等。
+
+![图片](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211815961.jpeg)
+
+举个例子：一只戴着小巫师帽的毛茸茸的三色猫，在日落时分阳光普照的草地上，施展着它的魔法，低角度镜头，照片写实主义
+
+接下来是描述动作，画面的主体正在发生什么？以及是在哪里发生，描述具体的场景。最后再确定我们想要的照片风格，例如，3D 动画、黑色电影、水彩画、照片写实主义、20 世纪 90 年代产品摄影等，不同的整体美学风格选择。
+
+**如果追求更可控的生图效果，Google 还提到了可以进一步完善相机、灯光和格式等细节，精细化提示词的内容。**
+
+例如现在的 Nano Banana Pro 支持自定义构图和宽高比，我们可以选择 9:16 竖版海报，21:9 电影宽镜头等画面。
+
+此外，在摄影和灯光细节上，Google 给的参考提示是，像电影摄影师一样指导拍摄，具体的用词可以尽可能专业化，例如，「低角度拍摄，浅景深（f/1.8）、黄金时段逆光，营造长阴影、电影级调色，采用柔和的蓝绿色调」；等提示词用语。
+
+![图片](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211815429.jpeg)
+
+举例：一只戴着小巫师帽的毛茸茸的三色猫，在日落时分阳光普照的草地上，施展着它的魔法，低角度镜头，浅景深（f/1.8）、黄金时段逆光营造长阴影、电影级调色，采用柔和的蓝绿色调。照片写实主义。21:9 电影宽镜头。标题「猫猫施法」以可爱的彩虹字体显示在顶部。
+
+在针对文本处理任务时，需要明确说明，某段文本的内容和显示位置，以及这段文本对应的字体。针对图表信息图，要在提示词里面，明确告诉模型对准确性的要求，并且确保自己的输入是正确的。
+
+涉及到多图参考和图像编辑，需要明确告知模型每张图片的作用，以及具体需要编辑的地方。
+
+掌握了提示词公式只是基础，接下来就是一些官方推荐的，Nano Banana Pro 具体的应用场景。
+
+**1、让 AI 真的「写字」，而不是画鬼画符。**以前 AI 画图最怕出现文字，出来的都是乱码，新模型在文字渲染上有了巨大提升。我们可以直接要求它生成海报标题、复杂的图表、或者详细的模型说明。
+
+![图片](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211815477.jpeg)
+
+提示词：制作一张信息图，用中文展示如何制作老北京豆汁儿。
+
+**2、它是懂物理和历史的。**基于 Gemini 3 的推理能力，这个模型拥有更丰富的世界知识，它可以生成逻辑严密的图表，或符合历史事实的场景。
+
+**3、最多支持 14 张图！**超级融合大法。这大概是新模型最强悍的功能之一。它允许我们输入 6 到 14 张（具体数量可以要看不同的平台）完全不相关的图片，让 AI 将它们融合创造出全新的画面。
+
+利用多图输入功能，我们可以让同一个角色，在不同场景中保持面部和特征的一致性，甚至是在群像中也能保持相似度。这非常适合去做一些连环画或者分镜。
+
+![图片](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211815027.png)
+
+提示词：将这些图像组合成一张 16:9 格式的适当排列的电影图像，并将模特身上的裙子换成图像中的裙子。
+
+**4、精确调整大小。**尝试不同的宽高比，并在各种产品上生成 1K、2K 或 4K 分辨率的清晰视觉效果。
+
+**5、「指哪打哪」的精准修图。**Google 把这叫做工作室级别的控制编辑，实现更专业的效果。
+
+**6、品牌设计神器：自动贴图。**对于设计师来说，和初代 nano banana 相比，它的一致性保持能力更强。品牌公司可以让 AI 将对应 Logo、图案或艺术作品印在 3D 物体上，同时贴上去的 Logo，会自动调整到原图自然的光影和纹理。
+
+**7、跨语言无缝翻译**，它不仅是一个生图工具，还能直接「翻译」图片里的文字。
+
+![图片](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211815001.png)
+
+提示词：将三个黄蓝罐头上的所有英文文字翻译成韩语，其他内容保持不变。
+
+虽然 Nano Banana Pro 很强，但在官方文档里，他们也坦诚地列出了一些目前的局限性，大家使用时可以留意一下。主要是一些极小的文字渲染、复杂的拼写有时还是会出错。
+
+另外，如果你用它生成数据图表或信息图，他们也提醒，一定要人工核对数据。AI 虽然有逻辑，但偶尔也会一本正经地胡说八道，毕竟 AI 幻觉有多严重，我们都有目共睹。
+
+最后是在进行一些极其复杂的光照改变，或图像融合时，生成的图片，偶尔会出现不自然的伪影。
+
+![图片](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211815512.png)
+
+**目前该模型已在 Gemini App 和 Gemini 网页版上线**，而在 AI Studio 和 Vertex 平台则需要使用付费 API 才可以体验。
+
+
+
+
+
+国内使用渠道：
+
+https://maynorai.top/list/#/home
+
+https://draw.claude-opus.top/list/#/home
+
+https://nanobanana-free.top/
+
+
+
+中转API：
+
+https://apipro.maynor1024.live/
