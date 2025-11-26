@@ -497,7 +497,7 @@ A fun busy town infographic, showing animals working in a busy town and introduc
 
 Image credit: X@unsoldwill | Prompt: Make a fun busy town infographic of animals going to work in a busy town showcasing different jobs.
 
-A Stephen Biesty style双层 neural network diagram.
+A Stephen Biesty style double layer neural network diagram.
 
 ![Image](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211815485.jpeg)
 
